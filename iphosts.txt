@@ -2,7 +2,7 @@
 # Title: Lethal's IP-Logger Filter
 # Expires: 1 day
 # Homepage: https://github.com/LethalAspect/pihole-filterlists
-# License: 
+# License: https://github.com/LethalAspect/pihole-filterlists/blob/main/LICENSE
 # Total number of network filters: 917
 # ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
