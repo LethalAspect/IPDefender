@@ -399,6 +399,7 @@ hs.vc
 hsh-dayz.com
 ht1.in
 httbuy.com
+httpbin.org
 hwhssc.cn
 i.imger.me
 i56ad.site
@@ -436,6 +437,7 @@ iplogger.ru
 iplogger.us
 ipsnatcher.com
 ipstresser.com
+ipv4.myip.wtf
 isitforreal.club
 islaminfo.fr
 jackmedway.co.uk
@@ -551,6 +553,8 @@ museumsinamerica.com
 my-alts.eu
 my-ap-p-applicatio-and-gratis.info
 my.su
+myip.wtf
+myip.com
 myiptest.com
 mynews-line.com
 myorange.co
