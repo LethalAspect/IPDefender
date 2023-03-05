@@ -3,7 +3,7 @@
 # Expires: 1 day
 # Homepage: https://github.com/LethalAspect/pihole-filterlists
 # License: https://github.com/LethalAspect/pihole-filterlists/blob/main/LICENSE
-# Total number of network filters: 916
+# Total number of network filters: 952
 # ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - idk
@@ -99,10 +99,12 @@ azyda.ru
 b-coresalon.com
 backcountrywater.info
 bandr.com.ua
+bathtub.pics
 bauldenotas.com
 bbcbloggers.co.uk
 bbcnews.today
 bbphotography.com
+bc.ax
 bc.vc
 bcuchargers.com
 be-a-seniorcomputerskillsok.live
@@ -172,6 +174,7 @@ certificadobr.info
 cervusequipment.ca
 cgart.ir
 chainbit.club
+cheapcinema.club
 cheapdomains.science
 chiangmaihotels.co
 chicagocutsteakhouse.com
@@ -272,6 +275,7 @@ dynamicvin.com
 ebsqu.site
 eceqxmmh.xyz
 ecgfj.live
+ed.tc
 edusecuritywatch.com
 edwinwin.xyz
 ejartistic.com
@@ -284,6 +288,7 @@ erapidassure.com
 esnetmx.com
 estesparkwiki.org
 esupportbest005.info
+eth0.me
 eventsinkansai.com
 evofitnessequipment.com
 exec-true.eu
@@ -308,6 +313,7 @@ fitnessandhealthtactics.com
 fitnessnutritionals.com
 flash-fm.tk
 flybynet.com.ar
+foot.wiki
 formanth.win
 fortmyers-mortgage.com
 fortnight.space
@@ -333,6 +339,8 @@ gain-a-dentalimplantssite.fyi
 galaxystars.pro
 galloinstitute.net
 gamehammer.info
+gamergirl.pro
+gamertag.shop
 gameofstones.com
 gameskeys.shop
 gaming-at-my.best
@@ -359,6 +367,8 @@ goulpreview.xyz
 gouttierewood.webcam
 grabify.icu
 grabify.link
+grabify.world
+grabifyicu.com
 grand-eight.club
 grandhuntings.com
 grandsnombres.com
@@ -404,6 +414,7 @@ hwhssc.cn
 i.imger.me
 i56ad.site
 iany.pl
+ident.me
 iknowwhatyoudownload.com
 ikwyd.com
 imageshack.ml
@@ -428,8 +439,11 @@ ipc360.org
 ipddoser.xyz
 ipgrabber.ru
 ipgraber.ru
+ipinfo.io
 iplis.ru
+iplist.ru
 iplo.ru
+iplocation.net
 iplogger.com
 iplogger.info
 iplogger.org
@@ -438,6 +452,8 @@ iplogger.us
 ipsnatcher.com
 ipstresser.com
 ipv4.myip.wtf
+imagehost.pics
+imghost.pics
 isitforreal.club
 islaminfo.fr
 jackmedway.co.uk
@@ -495,6 +511,7 @@ linkify.me
 linkit.cf
 lithoessa.gr
 livenewsbeta.com
+locations.quest
 loehzeq.bid
 longerdependent.com
 loopimagination.com
@@ -512,6 +529,7 @@ mailsquadron.net
 makerlab.ca
 maksa988.tech
 mamamiapizzeriaoffresno.com
+maper.info
 mapper.info
 mappufusion.site
 marie-robin.fr
@@ -553,6 +571,7 @@ museumsinamerica.com
 my-alts.eu
 my-ap-p-applicatio-and-gratis.info
 my.su
+myexternalip.com
 myip.wtf
 myip.com
 myiptest.com
@@ -578,6 +597,7 @@ niculae.net
 nilay.com.br
 ninjax.io
 nnmssc.cn
+noodshare.pics
 norwide.top
 nownails.online
 nsgwbfwsmall.xyz
@@ -613,6 +633,7 @@ parafiaswtrojcy.pl
 parcoursmed.com
 parfems.sk
 parlament.usa.cc
+partpicker.shop
 patita.tk
 patrickmurphy.me
 pausebas.xyz
@@ -620,6 +641,8 @@ paylessuniformsrgv.com
 paypal.sellbitcoins.com
 pbj-gallery.com
 pdfook.com
+photovault.pics
+pichost.pics
 piyambakan.com
 pizzalie.be
 pkkm5.com
@@ -646,6 +669,7 @@ proficiently-soft.club
 profilebakanlar.com
 profootballacademy.eu
 progaming.monster
+programing.monster
 progexer.tk
 progresskarate.com
 proxyfill.co
@@ -716,6 +740,7 @@ schaudt.eu
 sciencefuture.tk
 screenshare.host
 screenshot.best
+screenshot.pics
 searchproducts2017.review
 sehabinden.com
 seiinmovimento.it
@@ -730,6 +755,7 @@ sharewrong.online
 sharingdisini.com
 shauncvar.com
 sherrypetersphoto.com
+shhh.lol
 shopable.press
 shopbravesedge.com
 shopempire.su
@@ -759,6 +785,7 @@ sortrashion.com
 spdollar.com
 spiralsense.jp
 spoofing.host
+sportshub.bar
 spottyfly.com
 srt.icu
 ssc8n2.icu
@@ -808,6 +835,7 @@ theguitareffects.com
 thekingofheroes.com
 theunderheard.com
 thisisjess.co.uk
+thisdomainislong.lol
 tien-menuisier.fr
 tiffanycollins.club
 tify.com
@@ -820,6 +848,7 @@ tizkarvpn76.biz
 tldr.ly
 tnfbc.cn
 tokdigitalexpress.com
+toldyouso.pics
 tompriki.gr
 tomtaylorinsurance.com
 toolce.cn
@@ -886,6 +915,7 @@ wetouth.bid
 wfear.com
 williepickensjazz.com
 winjudi77.biz
+wl.gl
 wm-reviews.ca
 wodemind.net
 wszgsshyjh.com
@@ -900,6 +930,7 @@ xda-developers.io
 xda-developers.us
 xgfgt.cn
 xmzbsjgv.icu
+xn--yutube-iqc.com
 xn--zqsu8k5y0b.com
 xnxx4porn.com
 xtydt.icu
@@ -921,6 +952,7 @@ youramonkey.com
 yourmy.monster
 yourskipper.co.uk
 youshouldclick.us
+yȯutube.com
 youutube.gq
 ype.com
 ytwrf4a.win
