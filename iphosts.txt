@@ -131,6 +131,7 @@ imageshare.best
 infosniper.me
 ipadress.sh
 ipify.org
+ipinfo.io
 ipgrab.org
 iplocation.net
 myexternalip.com
