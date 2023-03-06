@@ -3,7 +3,7 @@
 # Expires: 1 day
 # Homepage: https://github.com/LethalAspect/pihole-filterlists
 # License: https://github.com/LethalAspect/pihole-filterlists/blob/main/LICENSE
-# Total number of network filters: 952
+# Total number of network filters: 951
 # ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - idk
@@ -952,7 +952,6 @@ youramonkey.com
 yourmy.monster
 yourskipper.co.uk
 youshouldclick.us
-yȯutube.com
 youutube.gq
 ype.com
 ytwrf4a.win
