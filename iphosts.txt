@@ -1,7 +1,7 @@
 # ------------------------------------[UPDATE]---------------------------------------
 # Title: Lethal's IP-Logger Filter
 # Expires: 1 day
-Last modified: 06 March 2023
+# Last modified: 06 March 2023
 # Homepage: https://github.com/LethalAspect/pihole-filterlists
 # License: https://github.com/LethalAspect/pihole-filterlists/blob/main/LICENSE
 # Total number of network filters: 
@@ -55,7 +55,6 @@ pichost.pics
 picshost.pics
 programing.monster
 quickmessage.us
-rëddït.com
 screenshare.pics
 screenshot.best
 shhh.lol
@@ -73,6 +72,7 @@ toolce.cn
 trulove.guru
 xda-developers.io
 xda-developers.us
+xn--rddt-lpa0a.com # rëddït.com
 yourmy.monster
 youshouldclick.us
 zjrbc.cn
@@ -147,7 +147,6 @@ wtfismyip.com
 
 hs.vc
 imageshack.ml
-publicwiki.m
 publicwiki.me
 webprofile.me
 
