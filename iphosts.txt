@@ -4,7 +4,7 @@
 Last modified: 06 March 2023
 # Homepage: https://github.com/LethalAspect/pihole-filterlists
 # License: https://github.com/LethalAspect/pihole-filterlists/blob/main/LICENSE
-# Total number of network filters: 951
+# Total number of network filters: 
 
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
@@ -120,15 +120,27 @@ myiptest.com
 
 # ------------------------------------[UNSORTED]-----------------------------------
 
-blasze.com
-blasze.tk
+eth0.me
 ikwyd.com
+httpbin.org
 ip-puller.com
 ip-tracker.org
+ident.me
+ifconfig.io
+imageshare.best
+infosniper.me
+ipadress.sh
+ipify.org
+ipgrab.org
+iplocation.net
+myexternalip.com
+myip.com
 myip.wtf
+opentracker.net
 postimage.co
 ps3cfw.com
 sellbitcoins.com
+wtfismyip.com
 
 # ------------------------------------[DEAD LOGGERS]--------------------------------
 # Keeping this here as they might go back up
@@ -290,6 +302,7 @@ bf-games.net
 billigamkvaskarea.se
 bisabet.co
 blasze.com
+blasze.tk
 blyjh.com
 bodybuilding.co.uk
 boutikcondosvip.ca
