@@ -4,7 +4,7 @@
 # Last modified: 06 March 2023
 # Homepage: https://github.com/LethalAspect/pihole-filterlists
 # License: https://github.com/LethalAspect/pihole-filterlists/blob/main/LICENSE
-# Total number of network filters: 746
+# Total number of network filters: 749
 
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
