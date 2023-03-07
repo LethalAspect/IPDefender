@@ -4,7 +4,7 @@
 # Last modified: 06 March 2023
 # Homepage: https://github.com/LethalAspect/pihole-filterlists
 # License: https://github.com/LethalAspect/pihole-filterlists/blob/main/LICENSE
-# Total number of network filters: 749
+# Total number of network filters: 750
 
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
@@ -139,16 +139,18 @@ myexternalip.com
 myip.com
 myip.wtf
 opentracker.net
-postimage.co
-ps3cfw.com
 sellbitcoins.com
 wtfismyip.com
 
 # ------------------------------------[DEAD LOGGERS]--------------------------------
 # Keeping this here as they might go back up
 
+bvog.com
+community.hackersclub.net
+files.uploads.ws
 hs.vc
 imageshack.ml
+postimage.co
 publicwiki.me
 webprofile.me
 
@@ -158,15 +160,12 @@ webprofile.me
 anonymousforum.pw
 bbcbloggers.co.uk
 bucks.as
-bvog.com
 cloudfsx.com
-community.hackersclub.net
 deviantartt.ga
 deviantartt.ml
 dropboxx.cf
 dropboxx.ga
 exec-true.eu
-files.uploads.ws
 fotocerdas.com
 gtadb.net
 gyazoo.ga
@@ -207,7 +206,7 @@ tvshare.co
 twitte.ga
 xn--battl-b0a.net # battlė.net
 xn--yotbe-lvab.com # yoütübe.com
-xn--yutube-3wa.com/ # yòutube.com
+xn--yutube-3wa.com # yòutube.com
 xxox.co.uk
 youramonkey.com
 youutube.gq
