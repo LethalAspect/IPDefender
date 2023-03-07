@@ -130,6 +130,7 @@ ifconfig.io
 ifconfig.me
 imageshare.best
 infosniper.me
+ipv4.myip.wtf
 ipadress.sh
 ipify.org
 ipinfo.io
