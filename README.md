@@ -7,7 +7,9 @@ Feel free to use anything here!
 
 TODO:
 
-:large_blue_circle: Add support for domains starting in WWW
+:white_check_mark: Add support for domains starting in WWW
+
+:large_blue_circle: Check if domains is dead or alive
 
 :large_blue_circle: Create a bot to automate the proccess of link checking
 
