@@ -1,4 +1,4 @@
-# pihole-filterlists
+# Lethal's Filterlist
 
 These are random filter lists that I found and wanted to maintain them for personal use
 
