@@ -5,7 +5,7 @@
 # Homepage: https://github.com/LethalAspect/filterlists
 # Contribute https://github.com/LethalAspect/filterlists/issues
 # License: https://github.com/LethalAspect/filterlists/blob/main/LICENSE
-# Total number of network filters: 1376 (688)
+# Total number of network filters: 1378 (689)
 
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # Credits to Piperun for the original repo!
