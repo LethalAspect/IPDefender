@@ -135,6 +135,8 @@ myip.com
 myip.wtf
 opentracker.net
 sellbitcoins.com
+rikiki.site
+spylink.net
 wtfismyip.com
 
 # ------------------------------------[DEAD LOGGERS]--------------------------------
@@ -1234,6 +1236,7 @@ www.restresser.com
 www.revokedmob.com
 www.rezh-gid.ru
 www.riboli.it
+www.rikiki.site
 www.rikiki.net
 www.ritymusccs.com
 www.ro-casinogames.com
@@ -1295,6 +1298,7 @@ www.spdollar.com
 www.spiralsense.jp
 www.sportshub.bar
 www.spottyfly.com
+www.spylink.net
 www.starbucksisbadforyou.com
 www.starbucksiswrong.com
 www.startupsuriname.com
