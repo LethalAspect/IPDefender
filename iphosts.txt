@@ -5,7 +5,7 @@
 # Homepage: https://github.com/LethalAspect/filterlists
 # Contribute https://github.com/LethalAspect/filterlists/issues
 # License: https://github.com/LethalAspect/filterlists/blob/main/LICENSE
-# Total number of network filters: 1378 (689)
+# Total number of network filters: 1382 (690)
 
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # Credits to Piperun for the original repo!
@@ -130,6 +130,7 @@ ipify.org
 ipinfo.io
 ipgrab.org
 iplocation.net
+ipwho.is
 myexternalip.com
 myip.com
 myip.wtf
@@ -1036,6 +1037,7 @@ www.iplogger.ru
 www.ipsnatcher.com
 www.ipstresser.com
 www.ipv4.myip.wtf
+www.ipwho.is
 www.jackmedway.co.uk
 www.jameskellywnid.net
 www.jamoontree.net
