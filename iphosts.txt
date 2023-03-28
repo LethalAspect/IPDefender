@@ -5,7 +5,7 @@
 # Homepage: https://github.com/LethalAspect/filterlists
 # Contribute https://github.com/LethalAspect/filterlists/issues
 # License: https://github.com/LethalAspect/filterlists/blob/main/LICENSE
-# Total number of network filters: 1382 (690)
+# Total number of network filters: 1386 (692)
 
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # Credits to Piperun for the original repo!
@@ -131,6 +131,8 @@ ipinfo.io
 ipgrab.org
 iplocation.net
 ipwho.is
+ligma.wtf # roblox backdoor
+library.veryverybored.repl.co # roblox backdoor
 myexternalip.com
 myip.com
 myip.wtf
@@ -1078,7 +1080,9 @@ www.leancoding.co
 www.legalbarcode.com
 www.leiarimet.com
 www.lemaitre-france.fr
+www.library.veryverybored.repl.co # roblox backdoor
 www.lidian.info
+www.ligma.wtf # roblox backdoor
 www.linkify.me
 www.linkit.cf
 www.lithoessa.gr
