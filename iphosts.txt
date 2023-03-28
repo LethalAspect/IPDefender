@@ -1,7 +1,7 @@
 # ------------------------------------[UPDATE]---------------------------------------
 # Title: Lethal's IP-Logger Filter
 # Expires: 1 day
-# Last modified: 06 March 2023
+# Last modified: 28 March 2023
 # Homepage: https://github.com/LethalAspect/filterlists
 # Contribute https://github.com/LethalAspect/filterlists/issues
 # License: https://github.com/LethalAspect/filterlists/blob/main/LICENSE
