@@ -18,10 +18,10 @@ Feel free to use anything here!
 
 ## To-Do/Enhancements
 - [x] Add support for domains starting in WWW
-- [ ] Check if domain is alive or dead
+- [ ] Check if domains are alive or dead and place them in the right placement
 - [ ] Automate proccess of adding new domains
 - [ ] Add new filter lists
 - [x] Organize the list for better look
 
 # Credits
-[To Piperun for the original repo](https://github.com/piperun/iploggerfilter)
+[To Piperun for original iphosts.txt](https://github.com/piperun/iploggerfilter)
