@@ -115,6 +115,7 @@ myiptest.com
 
 # ------------------------------------[UNSORTED]-----------------------------------
 
+checkip.amazonaws.com
 eth0.me
 ikwyd.com
 httpbin.org
@@ -835,6 +836,7 @@ www.catsnthings.fun
 www.centenarulromaniei.ro
 www.cgart.ir
 www.cheapcinema.club
+www.checkip.amazonaws.com
 www.chiangmaihotels.co
 www.chicagocutsteakhouse.com
 www.cineconchile.com
