@@ -1,3 +1,12 @@
+[Adblock Plus]
+! Version: 202304180039
+! Description: Block. Don't break.
+! Title: webhook
+! Last modified: 2023-04-18T00:39:26+0000
+! Expires: 1 days (update frequency)
+! Homepage: https://oisd.nl
+! Syntax: Adblock Plus Filter List      
+
 ||discord.com^*/api/webhooks/
 ||discordapp.com^*/api/webhooks/
 ||discord.gg^*/api/webhooks/
