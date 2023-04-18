@@ -1,0 +1,7 @@
+||discord.com^*/api/webhooks/
+||discordapp.com^*/api/webhooks/
+||discord.gg^*/api/webhooks/
+||discord.io^*/api/webhooks/
+||discord.me^*/api/webhooks/
+||discord.net^*/api/webhooks/
+||discord.org^*/api/webhooks/
