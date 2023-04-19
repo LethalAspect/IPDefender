@@ -1,11 +1,11 @@
 # ------------------------------------[UPDATE]---------------------------------------
 # Title: Lethal's IP-Logger Filter
 # Expires: 1 day
-# Last modified: 28 March 2023
+# Last modified: 19 April 2023
 # Homepage: https://github.com/LethalAspect/filterlists
 # Contribute https://github.com/LethalAspect/filterlists/issues
 # License: https://github.com/LethalAspect/filterlists/blob/main/LICENSE
-# Total number of network filters: 1386 (692)
+# Total number of network filters: 1390 (694)
 
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 # Credits to Piperun for the original repo!
