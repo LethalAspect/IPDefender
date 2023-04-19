@@ -12,6 +12,10 @@ Feel free to use anything here!
   ```
   https://raw.githubusercontent.com/LethalAspect/filterlists/main/iphosts.txt
   ```
+  OR
+    ```
+  https://raw.githubusercontent.com/LethalAspect/filterlists/main/ipadblock.txt
+  ```
   
   - Click the Add button
   - Lastly do `pihole -g` to update your list
