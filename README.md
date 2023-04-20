@@ -21,10 +21,9 @@ Feel free to use anything here!
   - Lastly do `pihole -g` to update your list
 
 ## To-Do/Enhancements
-- [x] Add support for domains starting in WWW
+- [x] Add support for domains starting in WWW (Use ipadblock.txt instead)
 - [ ] Check if domains are alive or dead and place them in the right placement
 - [ ] Automate proccess of adding new domains
-- [ ] Add new filter lists
 - [x] Organize the list for better look
 
 # Credits
