@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Version: 202304190005
+! Version: 202304230005
 ! Description: Block IP Loggers
 ! Title: Lethal's IP Logger Filter
 ! Last modified: 2023-04-20T00:05:59+0000
@@ -274,6 +274,7 @@
 ||ip-puller.com^
 ||ip-tracker.org^
 ||ip.jlynx.net^
+||ip.wtf^
 ||ipadress.sh^
 ||ipc360.org^
 ||ipgrab.org^
@@ -293,7 +294,6 @@
 ||iplogger.ru^
 ||ipsnatcher.com^
 ||ipstresser.com^
-||ipv4.myip.wtf^
 ||ipwho.is^
 ||jackmedway.co.uk^
 ||jameskellywnid.net^
@@ -628,8 +628,6 @@
 ||uprav559.ru^
 ||upwchinese.com^
 ||uscfootball.us^
-||v4.ident.me^
-||v6.ident.me^
 ||vanillaicebook.com^
 ||varellamotos.com.br^
 ||vbooter.org^
