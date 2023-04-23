@@ -1,7 +1,7 @@
 # ------------------------------------[UPDATE]---------------------------------------
 # Title: Lethal's IP-Logger Filter
 # Expires: 1 day
-# Last modified: 19 April 2023
+# Last modified: 23 April 2023
 # Homepage: https://github.com/LethalAspect/filterlists
 # Contribute https://github.com/LethalAspect/filterlists/issues
 # License: https://github.com/LethalAspect/filterlists/blob/main/LICENSE
@@ -121,6 +121,7 @@ ikwyd.com
 httpbin.org
 ip-puller.com
 ip-tracker.org
+ip.wtf
 ident.me
 ifconfig.io
 ifconfig.me
