@@ -1,29 +1,13 @@
 # Lethal's Filterlists
 
-These are random filter lists that I found and wanted to maintain them for personal use
+These are random filter lists that I found and wanted to maintain for personal use
 
 Feel free to use anything here!
 
-## Installation
-
-  - Go to Pi-Hole adlists tab
-  - Copy and paste into the textbox:
-  
-  ```
-  https://raw.githubusercontent.com/LethalAspect/filterlists/main/iphosts.txt
-  ```
-  OR
-   ```
-  https://raw.githubusercontent.com/LethalAspect/filterlists/main/ipadblock.txt
-  ```
-  
-  - Click the Add button
-  - Lastly do `pihole -g` to update your list
-
 ## To-Do/Enhancements
-- [x] Add support for domains starting in WWW (Use ipadblock.txt instead)
-- [ ] Check if domains are alive or dead and place them in the right placement
-- [ ] Automate proccess of adding new domains
+- [x] Add a section for WWW in iphosts (Use ipadblock.txt instead)
+- [ ] Check domains if they are active or inactive
+- [ ] Have the time to search for new domains
 - [x] Organize the list for better look
 
 # Credits
