@@ -13,9 +13,9 @@ Feel free to use anything here!
  
 🟩 Check domains if they are online or dead
 
-🟥 Add a host format filterlist
+🟥 Add support for host syntax
  
-🟨 Find more domains
+🟧 Add more filterlists
 
 🟧 Organize ipadblock.txt into different sections
 
