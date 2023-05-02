@@ -1,5 +1,5 @@
 # ------------------------------------[UPDATE]---------------------------------------
-# Title: Lethal's IP-Logger Filter
+# Title: Lethal's IP-Logger Filter (DEPRECATED)
 # Expires: 1 day
 # Last modified: 02 May 2023
 # Homepage: https://github.com/LethalAspect/filterlists
