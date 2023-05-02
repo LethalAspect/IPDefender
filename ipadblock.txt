@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 202304230005
+! Version: 202305021118
 ! Description: Block IP Loggers
 ! Title: Lethal's IP Logger Filter
-! Last modified: 2023-04-20T00:05:59+0000
+! Last modified: 2023-05-02T11:18:59+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/LethalAspect/filterlists
 ! Syntax: Adblock Plus Filter List        
@@ -250,6 +250,7 @@
 ||hwhssc.cn^
 ||i.imger.me^
 ||iany.pl^
+||icanhazip.com^
 ||ident.me^
 ||ifconfig.io^
 ||ifconfig.me^
