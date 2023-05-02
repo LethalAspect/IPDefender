@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 202305021118
+! Version: 202305021135
 ! Description: Block IP Loggers
 ! Title: Lethal's IP Logger Filter
-! Last modified: 2023-05-02T11:18:59+0000
+! Last modified: 2023-05-02T11:35:59+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/LethalAspect/filterlists
 ! Syntax: Adblock Plus Filter List        
@@ -203,6 +203,7 @@
 ||garcinia-six.com^
 ||gedichten-voor-iedereen.com^
 ||geobug.net^
+||getipintel.net^
 ||gfnewsfr.pro^
 ||ggclk.com^
 ||gjilani-smartcity.com^
@@ -552,6 +553,7 @@
 ||smokehouseeats.com^
 ||smsolutions.co.in^
 ||snipe.blue^
+||snoopspy.com^
 ||softperts.com^
 ||sonodrugs.eu^
 ||soo.gd^
@@ -561,6 +563,7 @@
 ||sportshub.bar^
 ||spottyfly.com^
 ||spylink.net^
+||statcounter.com^
 ||starbucksisbadforyou.com^
 ||starbucksiswrong.com^
 ||startupsuriname.com^
@@ -612,6 +615,8 @@
 ||topcdn.biz^
 ||topstreaming.us^
 ||trailemploy.com^
+||traceip.net^
+||trackip.net^
 ||tran-engineering.ch^
 ||traxster.net^
 ||truckracing.com.au^
@@ -653,6 +658,7 @@
 ||webprofile.me^
 ||weightedcu.be^
 ||wfear.com^
+||whatstheirip.com^
 ||williepickensjazz.com^
 ||winjudi77.biz^
 ||wl.gl^
