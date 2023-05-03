@@ -5,20 +5,18 @@ These are random filter lists that I found and wanted to maintain for personal u
 Feel free to use anything here!
 
 ## To-Do/Enhancements
-###### 🟩 = Completed, 🟨 = In progress, 🟧 = Planning to do, 🟥 = Will never do
+### Completed 🟩
 
-🟩 Add ipadblock.txt to replace iphosts.txt
+- [x] Add ipadblock.txt to replace iphosts.txt
+- [x] Check domains if they are online or dead
 
-🟨 Try to maintain this as much as possible
- 
-🟩 Check domains if they are online or dead
+### In progress 🟨
 
-🟥 Add support for host syntax
- 
-🟧 Add more filterlists
+- [ ] Organize filterlist into different sections
 
-🟧 Organize ipadblock.txt into different sections
+### Will never do 🟥
 
+• Add support for host syntax
 
 # Credits
 [To Piperun for original idea to this project](https://github.com/piperun/iploggerfilter)
