@@ -8,11 +8,12 @@ Feel free to use anything here!
 ### Completed 🟩
 
 - [x] Add ipadblock.txt to replace iphosts.txt
+- [x] Organize filterlist into different sections
 - [x] Check domains if they are online or dead
 
 ### In progress 🟨
 
-- [ ] Organize filterlist into different sections
+- [ ] Create different filterlists
 
 ### Will never do 🟥
 
