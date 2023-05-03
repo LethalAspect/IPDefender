@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 050320230100
-! Description: Block IP Loggers
+! Version: 050320230129
+! Description: Block IP Loggers & Raw IP Sites
 ! Title: Lethal's IP Logger Filter
-! Last modified: 05-03-2023T01:00:GMT+8
+! Last modified: 05-03-2023T01:29:GMT+8
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/LethalAspect/filterlists
 ! Syntax: Adblock Plus Filter List        
