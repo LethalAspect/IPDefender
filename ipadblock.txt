@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 050320230250
+! Version: 050320230305
 ! Description: Block IP Loggers & Raw IP Sites
 ! Title: Lethal's IP Logger Filter
-! Last modified: 05-03-2023T02:50:GMT+8
+! Last modified: 05-03-2023T03:05:GMT+8
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/LethalAspect/filterlists
 ! License: https://github.com/LethalAspect/filterlists/blob/main/LICENSE
@@ -244,7 +244,7 @@
 ||lappas.com.gr^
 ||latinolove.com^
 ||leancoding.co^
-||legalbarcode.com
+||legalbarcode.com^
 ||lidian.info^
 ||linkify.me^
 ||lithoessa.gr^
