@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 050220230206
+! Version: 050320230100
 ! Description: Block IP Loggers
 ! Title: Lethal's IP Logger Filter
-! Last modified: 05-02-2023T02:06:00+0000
+! Last modified: 05-03-2023T01:00:GMT+8
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/LethalAspect/filterlists
 ! Syntax: Adblock Plus Filter List        
@@ -49,6 +49,7 @@
 ||azyda.ru^
 ||backcountrywater.info^
 ||bandr.com.ua^
+||barefoot.pics^
 ||bathtub.pics^
 ||bauldenotas.com^
 ||bbphotography.com^
@@ -151,6 +152,8 @@
 ||fusionadvisors.in^
 ||fxinvestigate.com^
 ||gameofstones.com^
+||gamer.hair^
+||gamer.tattoo^
 ||gamergirl.pro^
 ||gamertag.shop^
 ||gaming-at-my.best^
@@ -196,6 +199,7 @@
 ||ikwyd.com^
 ||imagehost.pics^
 ||imageshare.best^
+||imagevault.cloud^
 ||imger.me^
 ||imghost.pics^
 ||imgurl.us^
@@ -268,6 +272,8 @@
 ||mapper.info^
 ||markleppke.com^
 ||masqu3rade.com^
+||massive.boats^
+||massive.mom^
 ||matteodallombra.net^
 ||mbcv.co.il^
 ||mc183.com^
@@ -287,6 +293,9 @@
 ||myip.com^
 ||myip.wtf^
 ||myiptest.com^
+||mymassive.store^
+||mymassive.top^
+||mymassive.yachts^
 ||mynews-line.com^
 ||myorange.co^
 ||myown42.com^
@@ -322,11 +331,13 @@
 ||picshost.pics^
 ||piyambakan.com^
 ||plumcafebistro.com^
+||plz.life^
 ||postimage.co^
 ||ppen-timo.de^
 ||prawnik-katowice.pl^
 ||princessofsachempond.com^
 ||private-alert.com^
+||progaming.monster^
 ||progresskarate.com^
 ||ps3cfw.com^
 ||publishxpress.com^
@@ -365,9 +376,11 @@
 ||sellarafaeli.com^
 ||sellbitcoins.com^
 ||sevilladentalcare.com^
+||shareit.pics^
 ||sharingdisini.com^
 ||shauncvar.com^
 ||shhh.lol^
+||shipment.website^
 ||shorte.st^
 ||shrekis.life^
 ||shvana.com^
@@ -387,14 +400,17 @@
 ||sportshub.bar^
 ||spottyfly.com^
 ||spylink.net^
-||statcounter.com^
 ||startupsuriname.com^
 ||statblog.ru^
+||statcounter.com^
 ||stephenfarrell.io^
 ||stisla.com^
+||stonks.boats^
+||stonks.fun^
 ||stopify.co^
 ||studiolegalecipriano.com^
 ||sudburyautoglass.ca^
+||sugma.mom^
 ||sunbeach.fr^
 ||supnim.com^
 ||t-safe.nl^
@@ -414,6 +430,7 @@
 ||timgorichanaz.com^
 ||tiny.cc^
 ||tldr.ly^
+||toes.beauty^
 ||toldyouso.lol^
 ||toldyouso.pics^
 ||tomtaylorinsurance.com^
@@ -470,6 +487,7 @@
 ||yourskipper.co.uk^
 ||youshouldclick.us^
 ||ythingy.com^
+||yum.mom^
 ||yymoli.net^
 ||zonahd.org^
 ||zoneoccupee.com^
