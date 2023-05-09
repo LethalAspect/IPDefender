@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 050920230539
+! Version: 0509202306:58
 ! Description: Block IP Loggers & Raw IP Sites
 ! Title: Lethal's IP Logger Filter
-! Last modified: 05-09-2023T05:39:GMT+8
+! Last modified: 05-09-2023T06:58:GMT+8
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/LethalAspect/filterlists
 ! License: https://github.com/LethalAspect/filterlists/blob/main/LICENSE
@@ -204,7 +204,6 @@
 ||inspiratorfreak.com^
 ||inspiring-sustainability.com^
 ||interventionspecialists.com^
-||ip-api.com^
 ||ip-grabber.com^
 ||ip-puller.com^
 ||ip-tracker.org^
@@ -736,6 +735,8 @@
 
 ||eth0.me^
 ||ikwyd.com^
+||ip-api.com^
+||ipapi.co^
 ||library.veryverybored.repl.co^
 ||ligma.wtf^
 ||rikiki.net^
