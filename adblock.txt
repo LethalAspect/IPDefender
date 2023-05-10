@@ -1044,6 +1044,7 @@
 ! ------------------------------[OTHERS]---------------------------------
 
 ||eth0.me^
+||extreme-ip-lookup.com^
 ||ikwyd.com^
 ||ip-api.com^
 ||ipapi.co^
