@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Title: IPDefender
+! Title: IP Defender
 ! Description: Block IP Loggers & Raw IP Sites
 ! Last modified: May-10-2023
 ! Expires: 1 days (update frequency)
