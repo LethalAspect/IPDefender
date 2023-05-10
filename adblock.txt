@@ -865,7 +865,6 @@
 ||pronosparadise.com^
 ||proxyfill.co^
 ||ps3cfw.co^
-||publicwiki.m^
 ||publicwiki.me^
 ||qrg1c.us^
 ||r1p.pw^
