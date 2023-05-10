@@ -14,11 +14,10 @@ Feel free to use anything here!
 ### In progress 🟨
 
 - [ ] Create different filterlists
-- [ ] Bringing back Host Syntax
 
 ### Will never do 🟥
 
-None
+• Bring back host syntax (Too much time)
 
 # Credits
 [To Piperun for original idea to this project](https://github.com/piperun/iploggerfilter)
