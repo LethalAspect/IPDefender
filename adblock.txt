@@ -1,7 +1,7 @@
 [Adblock Plus]
 ! Title: DefenderBlocklist
 ! Description: Block IP Loggers & Raw IP Sites
-! Last modified: May-10-2023T8:37
+! Last modified: May-10-2023
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/LethalAspect/DefenderBlocklist
 ! License: https://github.com/LethalAspect/DefenderBlocklist/blob/main/LICENSE
