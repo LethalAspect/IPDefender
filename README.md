@@ -1,4 +1,4 @@
-# DefenderBlocklist
+# DefenderBlocklists
 
 These are random filter lists that I found and wanted to maintain for personal use
 
@@ -8,7 +8,7 @@ Feel free to use anything here!
 ### Completed 🟩
 
 - [x] Add ipadblock.txt to replace iphosts.txt
-- [x] Changed name to DefenderBlocklist
+- [x] Changed name to DefenderBlocklists
 - [x] Organize filterlist into different sections
 - [x] Check domains if they are online or dead
 
