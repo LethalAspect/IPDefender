@@ -1,7 +1,7 @@
 [Adblock Plus]
 ! Title: IP Defender
 ! Description: Block IP Loggers & Raw IP Sites
-! Last modified: May-16-2023
+! Last modified: May-27-2023
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/LethalAspect/IPDefender
 ! License: https://github.com/LethalAspect/IPDefender/blob/main/LICENSE
@@ -1023,23 +1023,25 @@
 ! These sites list your public IP in raw format
 
 ||checkip.amazonaws.com^
+||geoplugin.net^
 ||httpbin.org^
 ||icanhazip.com^
-||ip.wtf^
 ||ident.me^
 ||ifconfig.io^
 ||ifconfig.me^
-||myexternalip.com^
-||myip.com^
-||myip.wtf^
-||myiptest.com^
+||ip.wtf^
+||ipgeolocation.io^
 ||ipify.org^
 ||ipinfo.io^
 ||iplocation.net^
 ||ipwho.is^
+||jsonip.com^
+||myexternalip.com^
+||myip.com^
+||myip.wtf^
+||myiptest.com^
 ||opentracker.net^
 ||wtfismyip.com^
-
 
 ! ------------------------------[OTHERS]---------------------------------
 
@@ -1050,8 +1052,11 @@
 ||ip-api.com^
 ||ipapi.co^
 ||ipapi.com^
+||ipdata.co
 ||library.veryverybored.repl.co^
 ||ligma.wtf^
 ||rikiki.net^
 ||rikiki.site^
 ||spylink.net^
+||statsnode.com^
+||xtekky.com^
