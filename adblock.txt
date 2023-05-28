@@ -1052,7 +1052,7 @@
 ||ip-api.com^
 ||ipapi.co^
 ||ipapi.com^
-||ipdata.co
+||ipdata.co^
 ||library.veryverybored.repl.co^
 ||ligma.wtf^
 ||rikiki.net^
