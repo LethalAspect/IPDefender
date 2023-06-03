@@ -1053,6 +1053,7 @@
 ||ipapi.co^
 ||ipapi.com^
 ||ipdata.co^
+||lafibre.info^
 ||library.veryverybored.repl.co^
 ||ligma.wtf^
 ||rikiki.net^
