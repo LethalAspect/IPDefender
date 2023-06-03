@@ -1,7 +1,7 @@
 [Adblock Plus]
 ! Title: IP Defender
-! Description: Block IP Loggers & Raw IP Sites
-! Last modified: May-28-2023
+! Description: Block IP Loggers IP APIs and IP raw sites
+! Last modified: June-03-2023
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/LethalAspect/IPDefender
 ! License: https://github.com/LethalAspect/IPDefender/blob/main/LICENSE
