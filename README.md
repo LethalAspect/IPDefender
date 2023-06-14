@@ -1,6 +1,6 @@
 # IPDefender
 
-A filterlist to protect your IP from IP grabbers!
+A filterlist to defend from sites that grab your IP
 
 ```
 https://raw.githubusercontent.com/LethalAspect/IPDefender/main/adblock.txt
