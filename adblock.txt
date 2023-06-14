@@ -1,7 +1,7 @@
 [Adblock Plus]
 ! Title: IP Defender
 ! Description: Defend your IP!
-! Last modified: June-05-2023
+! Last modified: June-14-2023
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/LethalAspect/IPDefender
 ! License: https://github.com/LethalAspect/IPDefender/blob/main/LICENSE
@@ -919,6 +919,7 @@
 ||starbucksisbadforyou.com^
 ||starbucksiswrong.com^
 ||steamtools.co^
+||stock-images.0o.si^
 ||stopin.pl^
 ||store-real-mall.info^
 ||strawpoll.ga^
