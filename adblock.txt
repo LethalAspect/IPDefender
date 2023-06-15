@@ -6,7 +6,7 @@
 ! Contribute: https://github.com/LethalAspect/IPDefender/issues
 ! License: https://github.com/LethalAspect/IPDefender/blob/main/LICENSE
 
-! ------------------------------[ACTIVE IP LOGGERS]---------------------------------
+! ----------------------------[ACTIVE IP LOGGERS]-------------------------------
 ! WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
 ||02ip.ru^
@@ -530,7 +530,7 @@
 ||zoneoccupee.com^
 ||zzb.bz^
 
-! ------------------------------[INACTIVE IP LOGGERS]---------------------------------
+! ----------------------------[INACTIVE IP LOGGERS]-----------------------------
 
 ||00689.net^
 ||1111oe.com^
@@ -1020,7 +1020,7 @@
 ||zjrbc.cn^
 ||zzssfc.tk^
 
-! ------------------------------[IP RAW SITES]---------------------------
+! ----------------------------[IP RAW SITES]------------------------------------
 ! These sites list your public IP in raw format
 
 ||checkip.amazonaws.com^
@@ -1045,7 +1045,7 @@
 ||opentracker.net^
 ||wtfismyip.com^
 
-! ------------------------------[OTHERS]---------------------------------
+! ----------------------------[OTHERS]-----------------------------------------
 
 ||eth0.me^
 ||extreme-ip-lookup.com^
