@@ -1,9 +1,9 @@
 [Adblock Plus]
 ! Title: IP Defender
-! Description: Defend your IP!
-! Last modified: June-14-2023
+! Last modified: June-15-2023
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/LethalAspect/IPDefender
+! Contribute: https://github.com/LethalAspect/IPDefender/issues
 ! License: https://github.com/LethalAspect/IPDefender/blob/main/LICENSE
 
 ! ------------------------------[ACTIVE IP LOGGERS]---------------------------------
