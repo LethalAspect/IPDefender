@@ -1,4 +1,12 @@
+# Title: IP Defender (Hosts)
 # Last modified: November-26-2023
+# Expires: 1 days (update frequency)
+# Homepage: https://github.com/LethalAspect/IPDefender
+# Contribute: https://github.com/LethalAspect/IPDefender/issues
+# License: https://github.com/LethalAspect/IPDefender/blob/main/LICENSE
+
+# ----------------------------[ACTIVE IP LOGGERS]-------------------------------
+# WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing
 
 02ip.ru
 0519.org
@@ -521,6 +529,8 @@ zonahd.org
 zoneoccupee.com
 zzb.bz
 
+# ----------------------------[INACTIVE IP LOGGERS]-----------------------------
+
 00689.net
 1111oe.com
 20gbfree.club
@@ -1009,6 +1019,9 @@ z3uu.com
 zjrbc.cn
 zzssfc.tk
 
+# ----------------------------[IP RAW SITES]------------------------------------
+# These sites list your public IP in raw format
+
 checkip.amazonaws.com
 geoplugin.net
 httpbin.org
@@ -1031,6 +1044,8 @@ myiptest.com
 opentracker.net
 wtfismyip.com
 
+# ----------------------------[OTHERS]-----------------------------------------
+
 eth0.me
 extreme-ip-lookup.com
 geolocation-db.com
@@ -1047,6 +1062,10 @@ rikiki.site
 spylink.net
 statsnode.com
 xtekky.com
+
+# ----------------------------[WWW]---------------------------------
+# Just the sites above but with the www. infront
+
 
 www.00689.net
 www.02ip.ru
