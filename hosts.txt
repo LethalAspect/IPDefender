@@ -6,7 +6,7 @@
 # License: https://github.com/LethalAspect/IPDefender/blob/main/LICENSE
 
 # ----------------------------[ACTIVE IP LOGGERS]-------------------------------
-# WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing#
+# WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing
 
 02ip.ru
 0519.org
